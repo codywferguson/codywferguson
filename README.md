@@ -12,7 +12,6 @@ SQL · BigQuery · Alteryx · Python · Tableau · Excel
 - NBA
 - AI
 - Technology
-- 
 
 **Projects:**
 - First project in progress, check back soon!
